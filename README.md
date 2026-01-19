@@ -37,3 +37,9 @@ Then to build demos continue with the following commands:
 conan atlas build demos -s build_type=Debug
 ```
 
+
+To execute the demo:
+
+```
+./demos/build/Debug/demo
+```
